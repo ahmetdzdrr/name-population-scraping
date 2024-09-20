@@ -79,7 +79,7 @@ name-population-scraping/
 ├── main.py                 # Main script that performs the web scraping
 ├── name.py                 # Name script that performs the collect all names
 ├── requirements.txt        # List of Python dependencies
-├── output.csv     # Output file with scraped data (generated after running the script)
+├── output.csv              # Output file with scraped data 
 └── README.md               # Project documentation
 ```
 
